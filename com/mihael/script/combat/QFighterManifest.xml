@@ -1,0 +1,15 @@
+<manifest>
+	<main-class>com.mihael.script.combat.Fighter</main-class>
+	<name>QFighter</name>
+	<description>Fights anything</description>
+	<version>1.0</version>
+	<compatibility>
+		<game-type>RS3</game-type>
+	</compatibility>
+	<hidden>true</hidden>
+	<categories>
+		<category>COMBAT</category>
+	</categories>
+	<internal-id>qosmiof2-qfighter</internal-id>
+</manifest>
+ 
